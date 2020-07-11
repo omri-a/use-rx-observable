@@ -1,5 +1,5 @@
 {
-  "name": "@myname/use-observable",
+  "name": "use-rx-observable",
   "version": "1.0.0",
   "description": "A React hook for adding some RxJs magic to your components",
   "repository": {
